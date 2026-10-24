@@ -1,10 +1,10 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.5",
   "fecha": "2026-10-24",
-  "notas": "Tema claro, reordenar clips arrastrando en el timeline, yt-dlp se actualiza solo y aviso de versiones nuevas.",
+  "notas": "Detectar canción desde un enlace de TikTok o YouTube y guardarla en la biblioteca.",
   "enlaces": {
-    "mac-arm64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.1.4/Editor-EDS-0.1.4-mac-arm64.dmg",
-    "mac-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.1.4/Editor-EDS-0.1.4-mac-x64.dmg",
-    "win-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.1.4/Editor-EDS-0.1.4-win-x64.exe"
+    "mac-arm64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.1.5/Editor-EDS-0.1.5-mac-arm64.dmg",
+    "mac-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.1.5/Editor-EDS-0.1.5-mac-x64.dmg",
+    "win-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.1.5/Editor-EDS-0.1.5-win-x64.exe"
   }
 }
