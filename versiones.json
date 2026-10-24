@@ -1,10 +1,10 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.4",
   "fecha": "2026-10-24",
-  "notas": "Tema claro, yt-dlp se actualiza solo y aviso de versiones nuevas.",
+  "notas": "Tema claro, reordenar clips arrastrando en el timeline, yt-dlp se actualiza solo y aviso de versiones nuevas.",
   "enlaces": {
-    "mac-arm64": "https://drive.google.com/file/d/1i7FsggxuyEOTGhcuhEAlMF3Ve5S43RNl/view?usp=share_link",
-    "mac-x64": "https://drive.google.com/file/d/1f_apTwp6Oxf3gJ7OQgbEUQjIwO3yv8in/view?usp=share_link",
-    "win-x64": "https://drive.google.com/file/d/1Y8nv6muNG5Id_iqI_G3QMRJKTFy6mN-g/view?usp=sharing"
+    "mac-arm64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.1.4/Editor-EDS-0.1.4-mac-arm64.dmg",
+    "mac-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.1.4/Editor-EDS-0.1.4-mac-x64.dmg",
+    "win-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.1.4/Editor-EDS-0.1.4-win-x64.exe"
   }
 }
