@@ -1,10 +1,10 @@
 {
-  "version": "0.1.5",
+  "version": "0.1.6",
   "fecha": "2026-10-24",
-  "notas": "Detectar canción desde un enlace de TikTok o YouTube y guardarla en la biblioteca.",
+  "notas": "La separación de voz y música usa ahora Spleeter: más rápida y con licencia para vender.",
   "enlaces": {
-    "mac-arm64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.1.5/Editor-EDS-0.1.5-mac-arm64.dmg",
-    "mac-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.1.5/Editor-EDS-0.1.5-mac-x64.dmg",
-    "win-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.1.5/Editor-EDS-0.1.5-win-x64.exe"
+    "mac-arm64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.1.6/Editor-EDS-0.1.6-mac-arm64.dmg",
+    "mac-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.1.6/Editor-EDS-0.1.6-mac-x64.dmg",
+    "win-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.1.6/Editor-EDS-0.1.6-win-x64.exe"
   }
 }
