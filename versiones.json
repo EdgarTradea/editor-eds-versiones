@@ -1,10 +1,10 @@
 {
-  "version": "0.1.8",
-  "fecha": "2026-10-25",
-  "notas": "Los textos de TikTok salen con la misma fuente que TikTok (Proxima Nova, la que trae tu Mac) y los vídeos 4K se exportan en 4K de verdad. El Programador llega pronto.",
+  "version": "0.2.0",
+  "fecha": "2026-10-26",
+  "notas": "Ahora se llama Viralipy. Novedades: Rayos X para analizar virales, pasar vídeos al móvil con un QR, tapar textos de los clips, limpiar metadata, importar carpetas enteras y el asistente de Claude en un clic.",
   "enlaces": {
-    "mac-arm64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.1.8/Editor-EDS-0.1.8-mac-arm64.dmg",
-    "mac-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.1.8/Editor-EDS-0.1.8-mac-x64.dmg",
-    "win-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.1.8/Editor-EDS-0.1.8-win-x64.exe"
+    "mac-arm64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.0/Viralipy-0.2.0-mac-arm64.dmg",
+    "mac-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.0/Viralipy-0.2.0-mac-x64.dmg",
+    "win-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.0/Viralipy-0.2.0-win-x64.exe"
   }
 }
