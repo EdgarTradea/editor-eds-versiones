@@ -1,10 +1,10 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "fecha": "2026-10-26",
-  "notas": "Ahora se llama Viralipy. Novedades: Rayos X para analizar virales, pasar vídeos al móvil con un QR, tapar textos de los clips, limpiar metadata, importar carpetas enteras y el asistente de Claude en un clic.",
+  "notas": "«Extraer sonido (IA)» vuelve a separar la voz con la calidad de antes, y una canción sin drop ya suena en el vídeo, desde su principio.",
   "enlaces": {
-    "mac-arm64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.0/Viralipy-0.2.0-mac-arm64.dmg",
-    "mac-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.0/Viralipy-0.2.0-mac-x64.dmg",
-    "win-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.0/Viralipy-0.2.0-win-x64.exe"
+    "mac-arm64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.1/Viralipy-0.2.1-mac-arm64.dmg",
+    "mac-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.1/Viralipy-0.2.1-mac-x64.dmg",
+    "win-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.1/Viralipy-0.2.1-win-x64.exe"
   }
 }
