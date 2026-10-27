@@ -1,10 +1,10 @@
 {
-  "version": "0.2.1",
-  "fecha": "2026-10-26",
-  "notas": "«Extraer sonido (IA)» vuelve a separar la voz con la calidad de antes, y una canción sin drop ya suena en el vídeo, desde su principio.",
+  "version": "0.2.2",
+  "fecha": "2026-10-27",
+  "notas": "Rayos X sigue trabajando en segundo plano mientras vas a otras secciones y avisa al terminar",
   "enlaces": {
-    "mac-arm64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.1/Viralipy-0.2.1-mac-arm64.dmg",
-    "mac-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.1/Viralipy-0.2.1-mac-x64.dmg",
-    "win-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.1/Viralipy-0.2.1-win-x64.exe"
+    "mac-arm64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.2/Viralipy-0.2.2-mac-arm64.dmg",
+    "mac-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.2/Viralipy-0.2.2-mac-x64.dmg",
+    "win-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.2/Viralipy-0.2.2-win-x64.exe"
   }
 }
