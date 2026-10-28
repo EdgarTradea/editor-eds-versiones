@@ -1,10 +1,10 @@
 {
-  "version": "0.2.4",
+  "version": "0.2.5",
   "fecha": "2026-10-28",
-  "notas": "Extraer sonido (IA) separa mucho mejor: nuevo modelo Mel-Band RoFormer con licencia Apache-2.0 en lugar de Demucs",
+  "notas": "«Extraer sonido (IA)» sigue trabajando en segundo plano, con porcentaje y botón de cancelar, y avisa al terminar; Inicio con textos nuevos.",
   "enlaces": {
-    "mac-arm64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.4/Viralipy-0.2.4-mac-arm64.dmg",
-    "mac-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.4/Viralipy-0.2.4-mac-x64.dmg",
-    "win-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.4/Viralipy-0.2.4-win-x64.exe"
+    "mac-arm64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.5/Viralipy-0.2.5-mac-arm64.dmg",
+    "mac-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.5/Viralipy-0.2.5-mac-x64.dmg",
+    "win-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.5/Viralipy-0.2.5-win-x64.exe"
   }
 }
