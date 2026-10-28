@@ -1,10 +1,10 @@
 {
-  "version": "0.2.3",
+  "version": "0.2.4",
   "fecha": "2026-10-28",
-  "notas": "Dominio viralipy.com, enlace para la bio que abre la tienda fuera de TikTok e Instagram (Programador → Enlaces), modo oscuro y Rayos X cancelable",
+  "notas": "Extraer sonido (IA) separa mucho mejor: nuevo modelo Mel-Band RoFormer con licencia Apache-2.0 en lugar de Demucs",
   "enlaces": {
-    "mac-arm64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.3/Viralipy-0.2.3-mac-arm64.dmg",
-    "mac-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.3/Viralipy-0.2.3-mac-x64.dmg",
-    "win-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.3/Viralipy-0.2.3-win-x64.exe"
+    "mac-arm64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.4/Viralipy-0.2.4-mac-arm64.dmg",
+    "mac-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.4/Viralipy-0.2.4-mac-x64.dmg",
+    "win-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.4/Viralipy-0.2.4-win-x64.exe"
   }
 }
