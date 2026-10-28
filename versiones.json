@@ -1,10 +1,10 @@
 {
-  "version": "0.2.2",
-  "fecha": "2026-10-27",
-  "notas": "Rayos X sigue trabajando en segundo plano mientras vas a otras secciones y avisa al terminar",
+  "version": "0.2.3",
+  "fecha": "2026-10-28",
+  "notas": "Dominio viralipy.com, enlace para la bio que abre la tienda fuera de TikTok e Instagram (Programador → Enlaces), modo oscuro y Rayos X cancelable",
   "enlaces": {
-    "mac-arm64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.2/Viralipy-0.2.2-mac-arm64.dmg",
-    "mac-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.2/Viralipy-0.2.2-mac-x64.dmg",
-    "win-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.2/Viralipy-0.2.2-win-x64.exe"
+    "mac-arm64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.3/Viralipy-0.2.3-mac-arm64.dmg",
+    "mac-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.3/Viralipy-0.2.3-mac-x64.dmg",
+    "win-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.3/Viralipy-0.2.3-win-x64.exe"
   }
 }
