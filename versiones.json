@@ -1,10 +1,10 @@
 {
-  "version": "0.2.6",
-  "fecha": "2026-10-30",
-  "notas": "Rayos X ya no se queda al 72 % en Windows: el lector de textos (OCR) arrancaba sin sus dependencias y nunca contestaba",
+  "version": "0.2.7",
+  "fecha": "2026-11-03",
+  "notas": "La pantalla ya no se queda en negro si algo falla: sale un aviso con «Volver a intentarlo» y el fallo queda en «Copiar diagnóstico». Los textos pueden durar más que su clip.",
   "enlaces": {
-    "mac-arm64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.6/Viralipy-0.2.6-mac-arm64.dmg",
-    "mac-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.6/Viralipy-0.2.6-mac-x64.dmg",
-    "win-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.6/Viralipy-0.2.6-win-x64.exe"
+    "mac-arm64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.7/Viralipy-0.2.7-mac-arm64.dmg",
+    "mac-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.7/Viralipy-0.2.7-mac-x64.dmg",
+    "win-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.7/Viralipy-0.2.7-win-x64.exe"
   }
 }
