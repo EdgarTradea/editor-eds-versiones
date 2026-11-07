@@ -1,10 +1,10 @@
 {
-  "version": "0.2.8",
-  "fecha": "2026-11-06",
-  "notas": "Los textos de una tanda salen con el estilo que elijas (con borde, caja, sombra…) y un texto importado trae el suyo. En Windows, si el antivirus bloquea un archivo se reintenta, y si sigue el aviso explica cómo arreglarlo.",
+  "version": "0.2.9",
+  "fecha": "2026-11-07",
+  "notas": "Varios audios en el timeline, como en CapCut: añade una voz o un efecto en su propia pista, debajo de la canción.",
   "enlaces": {
-    "mac-arm64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.8/Viralipy-0.2.8-mac-arm64.dmg",
-    "mac-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.8/Viralipy-0.2.8-mac-x64.dmg",
-    "win-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.8/Viralipy-0.2.8-win-x64.exe"
+    "mac-arm64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.9/Viralipy-0.2.9-mac-arm64.dmg",
+    "mac-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.9/Viralipy-0.2.9-mac-x64.dmg",
+    "win-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.9/Viralipy-0.2.9-win-x64.exe"
   }
 }
