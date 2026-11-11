@@ -1,10 +1,10 @@
 {
-  "version": "0.2.9",
-  "fecha": "2026-11-07",
-  "notas": "Varios audios en el timeline, como en CapCut: añade una voz o un efecto en su propia pista, debajo de la canción.",
+  "version": "0.2.10",
+  "fecha": "2026-11-11",
+  "notas": "Exportar un vídeo con un tapado «Difuminar» ya no falla (en Mac y en Windows)",
   "enlaces": {
-    "mac-arm64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.9/Viralipy-0.2.9-mac-arm64.dmg",
-    "mac-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.9/Viralipy-0.2.9-mac-x64.dmg",
-    "win-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.9/Viralipy-0.2.9-win-x64.exe"
+    "mac-arm64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.10/Viralipy-0.2.10-mac-arm64.dmg",
+    "mac-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.10/Viralipy-0.2.10-mac-x64.dmg",
+    "win-x64": "https://github.com/EdgarTradea/editor-eds-versiones/releases/download/v0.2.10/Viralipy-0.2.10-win-x64.exe"
   }
 }
